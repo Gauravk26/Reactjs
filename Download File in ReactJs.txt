@@ -1,5 +1,5 @@
 First Import the file from location like :
 Import {DownloadFile} from "..asset/docs/help.pdf";
 
-then put download attribute in anchor tag
+then put download attribute in anchor tag.
 <a href={DownladFile} download>Click to Download</a>
